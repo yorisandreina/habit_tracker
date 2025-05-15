@@ -17,19 +17,17 @@ A command-line interface (CLI) application for defining, tracking, and analyzing
     ```
 
 2. **Create a virtual environment**
-# macOs/Linux
-    ```
+- macOs/Linux
     python3 -m venv .venv
     source .venv/bin/activate
-    ```
 
-# Windows (PowerShell)
+- Windows (PowerShell)
     ```
     python -m venv .venv
     .\.venv\Scripts\Activate.ps1
     ```
 
-# Windows (CMD)
+- Windows (CMD)
     ```
     python -m venv .venv
     .\.venv\Scripts\activate.bat
